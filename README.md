@@ -1,2 +1,2 @@
-# parImpar
+# determinarMedallaSwitch
 Created with CodeSandbox
